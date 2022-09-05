@@ -1,1 +1,1 @@
-Write a script that prints “Hello, World”, followed by a new line to the standard output. For task 7 new.
+Write a script that prints “Hello, World”, followed by a new line to the standard output. For task 9 new.
